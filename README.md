@@ -37,7 +37,7 @@
 ## 💁 About
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Floading-please-wait&psig=AOvVaw04zS8XqxvJFA9HQhGvfJE0&ust=1618960442298000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMis_eK3i_ACFQAAAAAdAAAAABAJ" alt="Loading wallpaper"/>
+  <img src="./wallpapers/loading.png" alt="Loading wallpaper"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 🎨 Layout
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Floading-please-wait&psig=AOvVaw04zS8XqxvJFA9HQhGvfJE0&ust=1618960442298000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMis_eK3i_ACFQAAAAAdAAAAABAJ" alt="Loading wallpaper"/>
+  <img src="./wallpapers/loading.png" alt="Loading wallpaper"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## 🆙 My Next Level
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Floading-please-wait&psig=AOvVaw04zS8XqxvJFA9HQhGvfJE0&ust=1618960442298000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMis_eK3i_ACFQAAAAAdAAAAABAJ" alt="Loading wallpaper"/>
+  <img src="./wallpapers/loading.png" alt="Loading wallpaper"/>
 </p>
 
 ---
@@ -100,7 +100,7 @@ $ yarn dev
 > Project developed during the **NLW - Next Level Week#05** offered by [Rocketseat🚀](https://rocketseat.com.br/)
 
 <p align="center">
-  <img src="./wallpapers/NLW#05-1920x1080.png" alt="Next Level Week 03"/>
+  <img src="./wallpapers/nlw05-full.png.png" alt="Next Level Week 05"/>
 </p>
 
 ---
