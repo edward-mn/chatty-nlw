@@ -70,7 +70,10 @@
 - [Express 📦](https://github.com/expressjs/express)
 - [TypeScript 🔤](https://www.typescriptlang.org/)
 - [Ts node dev](https://www.npmjs.com/package/ts-node-dev)
-- [Postman](https://www.postman.com/)
+- [Postman 👨🏼‍🚀](https://www.postman.com/)
+- [Uuid 🆔](https://github.com/uuidjs/uuid)
+- [Sqlite3 🪑🎲](https://github.com/mapbox/node-sqlite3)
+- [Type ORM 🛠](https://typeorm.io/#/)
 
 ---
 
