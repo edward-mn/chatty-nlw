@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/edward-mn/chatty-nlw?color=5622c9">
-
+  <a href="https://github.com/edward-mn/chatty-nlw/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/edward-mn/chatty-nlw?color=993399&logo=github">
+  </a>
+  
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/edward-mn/chatty-nlw?color=9966cc">
+  
+  <img alt="Languages used" src="https://img.shields.io/github/languages/count/edward-mn/chatty-nlw?color=E0b0ff">
+  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-FFFFFF">
+  
+  <img alt="License" src="https://img.shields.io/badge/trail-Node.js-3C873A">
+  
   <a href="https://github.com/edward-mn/chatty-nlw/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edward-mn/chatty-nlw?color=#6050A8">
   </a> 
-  
-  <a href="https://github.com/edward-mn/chatty-nlw/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/edward-mn/chatty-nlw?color=5622c9&logo=github">
-  </a>
-  
-  <img alt="Languages used" src="https://img.shields.io/github/languages/count/edward-mn/chatty-nlw?color=6050A8">
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-#FFF">
-  
-  <img alt="License" src="https://img.shields.io/badge/trail-nodejs-#3C873A">
 </p>
 
 <strong>
