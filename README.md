@@ -100,7 +100,7 @@ $ yarn dev
 > Project developed during the **NLW - Next Level Week#05** offered by [Rocketseat🚀](https://rocketseat.com.br/)
 
 <p align="center">
-  <img src="./wallpapers/nlw05-full.png.png" alt="Next Level Week 05"/>
+  <img src="./wallpapers/nlw05-full.png" alt="Next Level Week 05"/>
 </p>
 
 ---
