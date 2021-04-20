@@ -77,6 +77,11 @@
 
 ---
 
+## 🔑 Class codes
+- missaoespacial
+- embuscadoproximonivel
+
+
 ## 👷 How to [download](https://github.com/edward-mn/chatty-nlw/archive/master.zip) and <b>run<b>
 ```bash
 # Clone's repository
