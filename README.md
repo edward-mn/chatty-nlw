@@ -37,7 +37,7 @@
 ## 💁 About
 
 <p align="center">
-  <img src="./wallpapers/loading.png" alt="Loading wallpaper"/>
+  <img src="./wallpapers/loading_pic.png" alt="Loading wallpaper"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 🎨 Layout
 
 <p align="center">
-  <img src="./wallpapers/loading.png" alt="Loading wallpaper"/>
+  <img src="./wallpapers/loading_pic.png" alt="Loading wallpaper"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## 🆙 My Next Level
 
 <p align="center">
-  <img src="./wallpapers/loading.png" alt="Loading wallpaper"/>
+  <img src="./wallpapers/loading_pic.png" alt="Loading wallpaper"/>
 </p>
 
 ---
