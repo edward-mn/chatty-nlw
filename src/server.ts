@@ -38,3 +38,4 @@ app.listen(3000, () => {
 // yarn tsc --init (Arquivo de config TS)
 // Day 1 Code - missaoespacial
 // Day 2 Code - embuscadoproximonivel
+// Day 3 Code - astronautas

@@ -80,6 +80,7 @@
 ## 🔑 Class codes
 - missaoespacial
 - embuscadoproximonivel
+- astronautas
 
 
 ## 👷 How to [download](https://github.com/edward-mn/chatty-nlw/archive/master.zip) and <b>run<b>
