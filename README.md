@@ -74,6 +74,8 @@
 - [Uuid 🆔](https://github.com/uuidjs/uuid)
 - [Sqlite3 🪑🎲](https://github.com/mapbox/node-sqlite3)
 - [Type ORM 🛠](https://typeorm.io/#/)
+- [Socket.io](https://github.com/socketio/socket.io)
+- [Socket.io Client](https://github.com/socketio/socket.io-client)
 
 ---
 
@@ -81,6 +83,7 @@
 - missaoespacial
 - embuscadoproximonivel
 - astronautas
+- universoinfinito
 
 
 ## 👷 How to [download](https://github.com/edward-mn/chatty-nlw/archive/master.zip) and <b>run<b>
@@ -93,6 +96,9 @@ $ cd chatty-nlw
 
 # Install the dependencies
 $ yarn install
+
+# Running migrations
+$ yarn typeorm migration:run
 
 # Execute run the app 
 $ yarn dev

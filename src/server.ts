@@ -1,10 +1,10 @@
 // ... significa que é necessário fazer a instalação da tipagem - yarn add @types/nome_biblioteca -D (-D = ambiente Dev)
-import express from 'express'; 
+import { http } from "./http"
+import "./websocket/client"
 
-import "./database/";
-import { routes } from "./routes";
-
-const app = express();
+http.listen(3000, () => {
+  console.log("Server is running on port 3000");
+})
 
 /* 
  - GET = Buscas
@@ -27,15 +27,8 @@ app.post('/', (req, res) => {
 
 */
 
-app.use(express.json());
-
-app.use(routes);
-
-app.listen(3000, () => {
-  console.log("Server is running on port 3000");
-})
-
 // yarn tsc --init (Arquivo de config TS)
 // Day 1 Code - missaoespacial
 // Day 2 Code - embuscadoproximonivel
 // Day 3 Code - astronautas
+// Day 4 Code - universoinfinito
