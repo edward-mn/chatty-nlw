@@ -74,8 +74,8 @@
 - [Uuid 🆔](https://github.com/uuidjs/uuid)
 - [Sqlite3 🪑🎲](https://github.com/mapbox/node-sqlite3)
 - [Type ORM 🛠](https://typeorm.io/#/)
-- [Socket.io](https://github.com/socketio/socket.io)
-- [Socket.io Client](https://github.com/socketio/socket.io-client)
+- [Socket.io :link:](https://github.com/socketio/socket.io)
+- [Socket.io Client :link:](https://github.com/socketio/socket.io-client)
 
 ---
 
