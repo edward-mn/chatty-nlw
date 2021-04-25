@@ -76,6 +76,8 @@
 - [Type ORM 🛠](https://typeorm.io/#/)
 - [Socket.io :link:](https://github.com/socketio/socket.io)
 - [Socket.io Client :link:](https://github.com/socketio/socket.io-client)
+- [Day js ☀](https://github.com/iamkun/dayjs)
+- [Mustache 🧔🏽](https://github.com/janl/mustache.js/)
 
 ---
 
@@ -84,6 +86,7 @@
 - embuscadoproximonivel
 - astronautas
 - universoinfinito
+- missaocumprida
 
 
 ## 👷 How to [download](https://github.com/edward-mn/chatty-nlw/archive/master.zip) and <b>run<b>

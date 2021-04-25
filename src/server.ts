@@ -1,6 +1,7 @@
 // ... significa que é necessário fazer a instalação da tipagem - yarn add @types/nome_biblioteca -D (-D = ambiente Dev)
-import { http } from "./http"
-import "./websocket/client"
+import { http } from "./http";
+import "./websocket/client";
+import "./websocket/admin";
 
 http.listen(3000, () => {
   console.log("Server is running on port 3000");
@@ -32,3 +33,4 @@ app.post('/', (req, res) => {
 // Day 2 Code - embuscadoproximonivel
 // Day 3 Code - astronautas
 // Day 4 Code - universoinfinito
+// Day 5 Code - missaocumprida
